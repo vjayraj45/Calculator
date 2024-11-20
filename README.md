@@ -1,2 +1,2 @@
 # Calculator
-calculator using c
+simple calculator using c
